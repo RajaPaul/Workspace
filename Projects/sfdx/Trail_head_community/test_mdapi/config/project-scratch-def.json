@@ -1,0 +1,8 @@
+{
+    "orgName": "Persistent Systems LTD",
+    "edition": "Developer",
+    "features": ["MultiCurrency", "Communities"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled","IsLiveAgentEnabled"]
+    }
+}

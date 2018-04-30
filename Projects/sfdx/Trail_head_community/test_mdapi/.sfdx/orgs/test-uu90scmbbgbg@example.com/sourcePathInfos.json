@@ -1,0 +1,62 @@
+[
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524890649243,
+            "changeTime": 1524890649243,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524890649243,
+            "changeTime": 1524890649243,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524914356669,
+            "changeTime": 1524914356669,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524914374912,
+            "changeTime": 1524914374912,
+            "contentHash": "09209860f14e417ef3c05c629a1d8b46152c5e8b",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

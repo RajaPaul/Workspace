@@ -1,0 +1,15 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "ancestorId" :"05i7F000000CaRgQAK",
+      "id": "0Ho7F000000blRwSAI",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.1.0.NEXT"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}

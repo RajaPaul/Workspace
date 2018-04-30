@@ -1,0 +1,13 @@
+=== Orgs
+     ALIAS       USERNAME                          ORG ID              CONNECTED STATUS
+───  ──────────  ────────────────────────────────  ──────────────────  ────────────────
+     DEV_DRILCO  raja_paul@persistent.com.slb.dev  00D0v0000000QXOEA2  Connected
+(D)  DevHub      rp@sfdx.com                       00D7F000006MgxfUAC  Connected
+     tp_org      raja1337@raja.com                 00D7F000003iKKTUA2  Connected
+
+
+     ALIAS       SCRATCH ORG NAME        USERNAME                       ORG ID              EXPIRATION DATE
+───  ──────────  ──────────────────────  ─────────────────────────────  ──────────────────  ───────────────
+(U)  tp_sc_org2  Persistent Systems LTD  test-uu90scmbbgbg@example.com  00D0k0000000w6JEAQ  2018-05-05
+
+

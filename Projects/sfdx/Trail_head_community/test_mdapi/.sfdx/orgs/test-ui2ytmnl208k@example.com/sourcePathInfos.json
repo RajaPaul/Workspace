@@ -1,0 +1,2218 @@
+[
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524890649243,
+            "changeTime": 1524890649243,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524890649243,
+            "changeTime": 1524890649243,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045117,
+            "changeTime": 1524996045117,
+            "contentHash": "f85fdce14674caeb12e8419f5136e03b1859d6a4"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524914374912,
+            "changeTime": 1524914374912,
+            "contentHash": "09209860f14e417ef3c05c629a1d8b46152c5e8b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\skills\\Web_Support.skill-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\skills\\Web_Support.skill-meta.xml",
+            "isDirectory": false,
+            "size": 431,
+            "modifiedTime": 1524995443211,
+            "changeTime": 1524995443211,
+            "contentHash": "9d9970328d9548d78150b47bcc48224dc0b8a967",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatButtons\\Web_Support_Chat.liveChatButton-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatButtons\\Web_Support_Chat.liveChatButton-meta.xml",
+            "isDirectory": false,
+            "size": 941,
+            "modifiedTime": 1524995443218,
+            "changeTime": 1524995443218,
+            "contentHash": "98e54ae7fa7e0d863f607598d01e1437785d2223",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatAgentConfigs\\Web_Support_Configuration.liveChatAgentConfig-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatAgentConfigs\\Web_Support_Configuration.liveChatAgentConfig-meta.xml",
+            "isDirectory": false,
+            "size": 1606,
+            "modifiedTime": 1524995443224,
+            "changeTime": 1524995443224,
+            "contentHash": "48ce213775fb242f33d981db1bcb6cf0411fb01f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\skills",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\skills",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524995443211,
+            "changeTime": 1524995443211,
+            "contentHash": "3ca7cebf5693ac10944671f8af6cc0f9a4ec15c6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatButtons",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatButtons",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524995443218,
+            "changeTime": 1524995443218,
+            "contentHash": "9b12b6f77e620f19e211319e00b079695633d0f8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatAgentConfigs",
+        {
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatAgentConfigs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524995443224,
+            "changeTime": 1524995443224,
+            "contentHash": "5a14e3396ff7bcf830882aadc21642ab2fbb0466",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1524996044706,
+            "changeTime": 1524996044706,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\clock.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\clock.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4681,
+            "modifiedTime": 1524996044791,
+            "changeTime": 1524996044791,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\construction.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\construction.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15051,
+            "modifiedTime": 1524996044792,
+            "changeTime": 1524996044792,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\force_logo.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\force_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1524996044793,
+            "changeTime": 1524996044793,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\maintenance.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\maintenance.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12247,
+            "modifiedTime": 1524996044793,
+            "changeTime": 1524996044793,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\poweredby.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\poweredby.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1524996044794,
+            "changeTime": 1524996044794,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\tools.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\tools.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1524996044795,
+            "changeTime": 1524996044795,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\unauthorized.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\unauthorized.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1524996044796,
+            "changeTime": 1524996044796,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\warning.png",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img\\warning.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1767,
+            "modifiedTime": 1524996044796,
+            "changeTime": 1524996044796,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\SiteStyles.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\SiteStyles.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1524996044798,
+            "changeTime": 1524996044798,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1524996044805,
+            "changeTime": 1524996044805,
+            "contentHash": "5f6b9dc132a92de0e89e516508746056a25ccd2b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegisterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegisterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2424,
+            "modifiedTime": 1524996044806,
+            "changeTime": 1524996044806,
+            "contentHash": "e579fbb4dae5e6c3e604f900719e1c697908fe02"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3412,
+            "modifiedTime": 1524996044807,
+            "changeTime": 1524996044807,
+            "contentHash": "eb17e7321358d4e1f50506328593d32deef7e6ff"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1524996044808,
+            "changeTime": 1524996044808,
+            "contentHash": "c50da00f4f7211befe944a7e800c75a3c31d3c81"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegister.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5281,
+            "modifiedTime": 1524996044809,
+            "changeTime": 1524996044809,
+            "contentHash": "3fd8be0700fabe1c7aae4090088fbea18e02c349"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegisterController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister\\selfRegisterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1183,
+            "modifiedTime": 1524996044809,
+            "changeTime": 1524996044809,
+            "contentHash": "1ac99d86482ed0f2997f150773d0f867705fe610"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1524996044811,
+            "changeTime": 1524996044811,
+            "contentHash": "a48d9fb2bf4f1b98b08a312304f4803b571f26f2"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1743,
+            "modifiedTime": 1524996044812,
+            "changeTime": 1524996044812,
+            "contentHash": "83ef99e93cdcb75639fdd632d2b999fc099d8290"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPasswordController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPasswordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 765,
+            "modifiedTime": 1524996044813,
+            "changeTime": 1524996044813,
+            "contentHash": "830df9a34fd83eb9e7916aea616541d67dbc34e6"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPasswordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPasswordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1043,
+            "modifiedTime": 1524996044814,
+            "changeTime": 1524996044814,
+            "contentHash": "2002734bc484699cf8d5f68bb5930de6801e5b3e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1433,
+            "modifiedTime": 1524996044814,
+            "changeTime": 1524996044814,
+            "contentHash": "b23bd13dd4e4a91d377bd7dc39826c44fb349ffd"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword\\forgotPassword.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 299,
+            "modifiedTime": 1524996044815,
+            "changeTime": 1524996044815,
+            "contentHash": "e48bbc8023c88f57af56e6aeb270cb83679a8f3d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId\\setExpId.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId\\setExpId.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1524996044816,
+            "changeTime": 1524996044816,
+            "contentHash": "6d492c3c0f48b39d11c5f1bc89f913052e2174a1"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId\\setExpId.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId\\setExpId.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524996044817,
+            "changeTime": 1524996044817,
+            "contentHash": "3eb7d547ead7f9611baf1f7ee880973ccb65889c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl\\setStartUrl.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl\\setStartUrl.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1524996044818,
+            "changeTime": 1524996044818,
+            "contentHash": "55db53df518757b96c9104eb20248fd421825d42"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl\\setStartUrl.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl\\setStartUrl.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524996044819,
+            "changeTime": 1524996044819,
+            "contentHash": "36d4cf2f3ee9039bdae4d29a0056923260d7373b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1524996044820,
+            "changeTime": 1524996044820,
+            "contentHash": "0d10b950d0137314431f95d94da9d03ee5772083"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4098,
+            "modifiedTime": 1524996044821,
+            "changeTime": 1524996044821,
+            "contentHash": "8cad4a3886eb1be09b766a10c7a0975c6c1fdf46"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2273,
+            "modifiedTime": 1524996044822,
+            "changeTime": 1524996044822,
+            "contentHash": "8d7257cf23940cfb2865dced83c9f9614a160e6a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2872,
+            "modifiedTime": 1524996044823,
+            "changeTime": 1524996044823,
+            "contentHash": "0005d3525bc7e18a24f19df148a2833b4a1ccb5e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1851,
+            "modifiedTime": 1524996044823,
+            "changeTime": 1524996044823,
+            "contentHash": "e863ec165e4c2983bf703eaf60418cf394ead707"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm\\loginForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 546,
+            "modifiedTime": 1524996044824,
+            "changeTime": 1524996044824,
+            "contentHash": "9c45d15bab64fa1cfe6466a3cea52b68fbcc787c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteFooter.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1524996044825,
+            "changeTime": 1524996044825,
+            "contentHash": "21ead267787faab622f112a8b97992e674529ee9"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteFooter.component",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteFooter.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1524996044826,
+            "changeTime": 1524996044826,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteLogin.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1524996044845,
+            "changeTime": 1524996044845,
+            "contentHash": "1032e5cebd967315302d33c41bb49f8c04635aa7"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteLogin.component",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteLogin.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1254,
+            "modifiedTime": 1524996044846,
+            "changeTime": 1524996044846,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SitePoweredBy.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1524996044849,
+            "changeTime": 1524996044849,
+            "contentHash": "38f877bf4458bb347a19857f7cbb6539c799acc5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SitePoweredBy.component",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SitePoweredBy.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1524996044850,
+            "changeTime": 1524996044850,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteHeader.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1524996044852,
+            "changeTime": 1524996044852,
+            "contentHash": "e9ee1cfe1c51db40705c451c9b3123d6472f8424"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteHeader.component",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components\\SiteHeader.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1214,
+            "modifiedTime": 1524996044853,
+            "changeTime": 1524996044853,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegister.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1524996044857,
+            "changeTime": 1524996044857,
+            "contentHash": "a0582ca828b391237652a4493cb35f860f29e952"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegister.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegister.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2535,
+            "modifiedTime": 1524996044858,
+            "changeTime": 1524996044858,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 352,
+            "modifiedTime": 1524996044874,
+            "changeTime": 1524996044874,
+            "contentHash": "ac6402b3cac958128beb2a4acdcbcccfec4a12f3"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1178,
+            "modifiedTime": 1524996044875,
+            "changeTime": 1524996044875,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPasswordConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1524996044878,
+            "changeTime": 1524996044878,
+            "contentHash": "6de297703316e9b20e9ea23ca4e0f14bca9b3c4a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPasswordConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1315,
+            "modifiedTime": 1524996044879,
+            "changeTime": 1524996044879,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ChangePassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1524996044881,
+            "changeTime": 1524996044881,
+            "contentHash": "c1365cf7cca8f1f667d7ec3a23182719cd5bb011"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ChangePassword.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ChangePassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2253,
+            "modifiedTime": 1524996044882,
+            "changeTime": 1524996044882,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1524996044886,
+            "changeTime": 1524996044886,
+            "contentHash": "44e6bfd6d2cccf8d3217607d58c345a0ca235567"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPassword.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\ForgotPassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1734,
+            "modifiedTime": 1524996044896,
+            "changeTime": 1524996044896,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\StdExceptionTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1524996044899,
+            "changeTime": 1524996044899,
+            "contentHash": "901c164106991288c97e5a62cc3e761120b9cf6c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\StdExceptionTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\StdExceptionTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1524996044899,
+            "changeTime": 1524996044899,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLanding.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLanding.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1524996044903,
+            "changeTime": 1524996044903,
+            "contentHash": "c7836e7a9e2a3bd2cd315436797724cf53a5cf37"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLanding.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLanding.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1524996044904,
+            "changeTime": 1524996044904,
+            "contentHash": "f4f56310b743abd6983739cb9fb38a89ed8bd5d9"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1524996044906,
+            "changeTime": 1524996044906,
+            "contentHash": "4cac81b15930e84e76a2a522850360ac4c0e7d9b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1524996044907,
+            "changeTime": 1524996044907,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfReg.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfReg.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1524996044936,
+            "changeTime": 1524996044936,
+            "contentHash": "9339ac06b0757951a13d6303618617898dc84a5e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfReg.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfReg.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1835,
+            "modifiedTime": 1524996044937,
+            "changeTime": 1524996044937,
+            "contentHash": "8740a361c26a708331f96b5d59b82154d2efcf9c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegisterConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1524996044940,
+            "changeTime": 1524996044940,
+            "contentHash": "184b2d35b5e0bc7ef2d7864ae8c540ad60bfd077"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegisterConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1336,
+            "modifiedTime": 1524996044940,
+            "changeTime": 1524996044940,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1524996044943,
+            "changeTime": 1524996044943,
+            "contentHash": "cd6e065956714cf2f7f389e03dd25d9ca84c6781"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1524996044943,
+            "changeTime": 1524996044943,
+            "contentHash": "d494d65b30936c6c6cc4ea317ca0be26fefd0899"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\MyProfilePage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1524996044946,
+            "changeTime": 1524996044946,
+            "contentHash": "bd7bf96515f68d8a644ad644e533f8c52b2300b9"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\MyProfilePage.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\MyProfilePage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5352,
+            "modifiedTime": 1524996044946,
+            "changeTime": 1524996044946,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Exception.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Exception.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1524996044949,
+            "changeTime": 1524996044949,
+            "contentHash": "6d63eaf7855997ea41abdd0479a6fbe400fc379c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Exception.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Exception.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1716,
+            "modifiedTime": 1524996044949,
+            "changeTime": 1524996044949,
+            "contentHash": "830bc42abae82f60204235bc55bb4e817329b8db"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\InMaintenance.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1524996044976,
+            "changeTime": 1524996044976,
+            "contentHash": "5903f958f398af7aa46742753a3c3d59fa11c249"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\InMaintenance.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\InMaintenance.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 854,
+            "modifiedTime": 1524996044977,
+            "changeTime": 1524996044977,
+            "contentHash": "660848468f184da3bdb013f9fdf96c6104ec33d6"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\FileNotFound.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1524996044979,
+            "changeTime": 1524996044979,
+            "contentHash": "bfd45032ff98bf468e37529866a43e3c6e8f715b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\FileNotFound.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\FileNotFound.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1667,
+            "modifiedTime": 1524996044980,
+            "changeTime": 1524996044980,
+            "contentHash": "5e6c03f7313422001a3df2c492db52fabdc10212"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfRegConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfRegConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1524996044983,
+            "changeTime": 1524996044983,
+            "contentHash": "d9bcd5ad92535598c18f857529fd281dcf16227f"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfRegConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesSelfRegConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1524996044983,
+            "changeTime": 1524996044983,
+            "contentHash": "9bd974d33dbf89a831056f0b8e84b9b425e7df18"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\BandwidthExceeded.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1524996044986,
+            "changeTime": 1524996044986,
+            "contentHash": "39a6afc36ede9d7045cd9a27565b744aba48d10b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\BandwidthExceeded.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\BandwidthExceeded.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 746,
+            "modifiedTime": 1524996044986,
+            "changeTime": 1524996044986,
+            "contentHash": "af8b65b80f92aa12ee84f138858b6b1253dde9f8"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\IdeasHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1524996044990,
+            "changeTime": 1524996044990,
+            "contentHash": "153b3f1d782867935776b96ea8c56224a71dd22b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\IdeasHome.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\IdeasHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1524996044991,
+            "changeTime": 1524996044991,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\AnswersHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1524996044994,
+            "changeTime": 1524996044994,
+            "contentHash": "74786dfe06a59f9504fbabc18e84aa774c0a9127"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\AnswersHome.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\AnswersHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1524996044994,
+            "changeTime": 1524996044994,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Unauthorized.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1524996044996,
+            "changeTime": 1524996044996,
+            "contentHash": "2400f377971c422698071fc849fb4a21c397f01e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Unauthorized.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\Unauthorized.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1524996044997,
+            "changeTime": 1524996044997,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\UnderConstruction.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1524996044999,
+            "changeTime": 1524996044999,
+            "contentHash": "2c8ddf98c88f93760dc8e04f7a3665c890e2acc7"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\UnderConstruction.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\UnderConstruction.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 819,
+            "modifiedTime": 1524996045000,
+            "changeTime": 1524996045000,
+            "contentHash": "7e44e8eff2115cba3f9494ac0ebac64ba628e919"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1524996045002,
+            "changeTime": 1524996045002,
+            "contentHash": "11a62a6a3d384a9a58c87c3652f630a669b29e75"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages\\CommunitiesTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 254,
+            "modifiedTime": 1524996045003,
+            "changeTime": 1524996045003,
+            "contentHash": "959a24656384758f13bbd30dfa419f0ca6f0392d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\applications\\standard__ServiceConsole.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\applications\\standard__ServiceConsole.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8225,
+            "modifiedTime": 1524996045013,
+            "changeTime": 1524996045013,
+            "contentHash": "6c8c3102f3533f5dcd6a48b12fdd599660394de8"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045015,
+            "changeTime": 1524996045015,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1524996045016,
+            "changeTime": 1524996045016,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045018,
+            "changeTime": 1524996045018,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1524996045019,
+            "changeTime": 1524996045019,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045021,
+            "changeTime": 1524996045021,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1524996045022,
+            "changeTime": 1524996045022,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045024,
+            "changeTime": 1524996045024,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1524996045025,
+            "changeTime": 1524996045025,
+            "contentHash": "cf9f2476b780b0f6cf19e569521fe72388a25bf6"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045027,
+            "changeTime": 1524996045027,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1524996045028,
+            "changeTime": 1524996045028,
+            "contentHash": "cb9e706e4f2584adcf80c77bf7fd48a140f907db"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045030,
+            "changeTime": 1524996045030,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6197,
+            "modifiedTime": 1524996045030,
+            "changeTime": 1524996045030,
+            "contentHash": "0078ae1357b38fec34ceffb97e7249e51daa04e6"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045033,
+            "changeTime": 1524996045033,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1584,
+            "modifiedTime": 1524996045033,
+            "changeTime": 1524996045033,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045036,
+            "changeTime": 1524996045036,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1524996045036,
+            "changeTime": 1524996045036,
+            "contentHash": "f1fd99eb82c4744783af85a86be464c1f8e321ad"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045039,
+            "changeTime": 1524996045039,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningLoginFormControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1079,
+            "modifiedTime": 1524996045039,
+            "changeTime": 1524996045039,
+            "contentHash": "e1e93bc0b3687bf1d952419a750eb1c08887706f"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045042,
+            "changeTime": 1524996045042,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1524996045042,
+            "changeTime": 1524996045042,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045045,
+            "changeTime": 1524996045045,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningSelfRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5572,
+            "modifiedTime": 1524996045045,
+            "changeTime": 1524996045045,
+            "contentHash": "ed5ee92fa1fa56d090e83ef0e235b5bf6c188fe7"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045048,
+            "changeTime": 1524996045048,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1524996045048,
+            "changeTime": 1524996045048,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045050,
+            "changeTime": 1524996045050,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1524996045051,
+            "changeTime": 1524996045051,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045053,
+            "changeTime": 1524996045053,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1524996045053,
+            "changeTime": 1524996045053,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045056,
+            "changeTime": 1524996045056,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2805,
+            "modifiedTime": 1524996045056,
+            "changeTime": 1524996045056,
+            "contentHash": "68250b28cbd25dc5afb432323903534767578a58"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045059,
+            "changeTime": 1524996045059,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1524996045059,
+            "changeTime": 1524996045059,
+            "contentHash": "84070006a2c57644fd7d707525e9297ec15f91a0"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045062,
+            "changeTime": 1524996045062,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1524996045063,
+            "changeTime": 1524996045063,
+            "contentHash": "d699d2c76978ccad1fc33fcd78ed17c360747337"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045065,
+            "changeTime": 1524996045065,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1524996045065,
+            "changeTime": 1524996045065,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045067,
+            "changeTime": 1524996045067,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\CommunitiesSelfRegConfirmControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 469,
+            "modifiedTime": 1524996045068,
+            "changeTime": 1524996045068,
+            "contentHash": "e91f7457a25b5da77131fe41c8f29c04bc7867c2"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045070,
+            "changeTime": 1524996045070,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 642,
+            "modifiedTime": 1524996045071,
+            "changeTime": 1524996045071,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045073,
+            "changeTime": 1524996045073,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2077,
+            "modifiedTime": 1524996045074,
+            "changeTime": 1524996045074,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045076,
+            "changeTime": 1524996045076,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 721,
+            "modifiedTime": 1524996045077,
+            "changeTime": 1524996045077,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045079,
+            "changeTime": 1524996045079,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1524996045080,
+            "changeTime": 1524996045080,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524996045082,
+            "changeTime": 1524996045082,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes\\SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 558,
+            "modifiedTime": 1524996045082,
+            "changeTime": 1524996045082,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\profiles\\Category 1 Biking Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\profiles\\Category 1 Biking Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7345,
+            "modifiedTime": 1524996045100,
+            "changeTime": 1524996045100,
+            "contentHash": "b313b10c9f94ce703c10d63ab43ce3eb4560dc88"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\sites\\Category_1_Biking.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\sites\\Category_1_Biking.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1532,
+            "modifiedTime": 1524996045104,
+            "changeTime": 1524996045104,
+            "contentHash": "7c05b7b096a28546d62fef7dbd2938feb9884f34"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites\\Category_1_Biking1.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites\\Category_1_Biking1.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1524996045105,
+            "changeTime": 1524996045105,
+            "contentHash": "49c3d05f322e00a4cebb1a6a294d9d545298092a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites\\Category_1_Biking1.site",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites\\Category_1_Biking1.site",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 81015,
+            "modifiedTime": 1524996045106,
+            "changeTime": 1524996045106,
+            "contentHash": "e2df15fbf20265e1b974f644dc127d65d72075ed"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networks\\Category 1 Biking.network-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networks\\Category 1 Biking.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2862,
+            "modifiedTime": 1524996045111,
+            "changeTime": 1524996045111,
+            "contentHash": "17eeaec101ddde0d989b6354acf337052ee72f73"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding\\cbCategory_1_Biking.networkBranding-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding\\cbCategory_1_Biking.networkBranding-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 638,
+            "modifiedTime": 1524996045115,
+            "changeTime": 1524996045115,
+            "contentHash": "bd45f6d4a0d0c342db56a913f0596f4914d1605d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding\\cbCategory_1_Biking.networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding\\cbCategory_1_Biking.networkBranding",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2,
+            "modifiedTime": 1524996045115,
+            "changeTime": 1524996045115,
+            "contentHash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatDeployments\\Web_Support_Chat_Deployment.liveChatDeployment-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatDeployments\\Web_Support_Chat_Deployment.liveChatDeployment-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 504,
+            "modifiedTime": 1524996045118,
+            "changeTime": 1524996045118,
+            "contentHash": "abfcee645280293f4ad818e94c3b080916f12b7e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044763,
+            "changeTime": 1524996044763,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples\\img",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044796,
+            "changeTime": 1524996044796,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\staticresources\\SiteSamples",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044797,
+            "changeTime": 1524996044797,
+            "contentHash": "bfc7b578cefd1230c8d14deafa0e6ea3053edc7e"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\selfRegister",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044809,
+            "changeTime": 1524996044809,
+            "contentHash": "8df7cfb5f48f3f00fcd4dd27c869c4cfdccd250c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044819,
+            "changeTime": 1524996044819,
+            "contentHash": "dfc44b937669b618fcdf8cd46b471e76b92d74ff"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\forgotPassword",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044815,
+            "changeTime": 1524996044815,
+            "contentHash": "6df7eaba9112e9d3d73be83929076ecdb37c6e02"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setExpId",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044817,
+            "changeTime": 1524996044817,
+            "contentHash": "11feaa7814348a87d18c4891772d2ec32891466d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\setStartUrl",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044818,
+            "changeTime": 1524996044818,
+            "contentHash": "932a38c2997891d2654c0893c0e1a4288e7c15ff"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\aura\\loginForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044824,
+            "changeTime": 1524996044824,
+            "contentHash": "fd718632c89a370e59634cc3aa2c6f67e9702b0c"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996044853,
+            "changeTime": 1524996044853,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045003,
+            "changeTime": 1524996045003,
+            "contentHash": "54a2cf26a57a9ce2c57e7c0f9e4e09990ad938cc"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045012,
+            "changeTime": 1524996045012,
+            "contentHash": "df3cd0b64bfeb3bd15240fccab73b56153687249"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045082,
+            "changeTime": 1524996045082,
+            "contentHash": "6f5330cd9b23701912e496f4429bfea73e9c7891"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045100,
+            "changeTime": 1524996045100,
+            "contentHash": "a6ca0ff6746c698076c2a7c735600922ba509446"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\sites",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045103,
+            "changeTime": 1524996045103,
+            "contentHash": "26595bc19e83d389e92ac98c322e3ffe1ad3b23a"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\siteDotComSites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045106,
+            "changeTime": 1524996045106,
+            "contentHash": "5d9c0f875d71b7e3a94194102654524d5a43152d"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networks",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045111,
+            "changeTime": 1524996045111,
+            "contentHash": "f95ad341ea445b271e0b10197c2dd43a7cb5f7a6"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\networkBranding",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045115,
+            "changeTime": 1524996045115,
+            "contentHash": "e78817dc0cfd74b9789b0404a09d3a7cddc396a4"
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatDeployments",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\Test_DEV_DRILCO\\test_mdapi\\force-app\\main\\default\\liveChatDeployments",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524996045118,
+            "changeTime": 1524996045118,
+            "contentHash": "c43b3136fa3b7e2f604c9cbf3139a31d52f5b366"
+        }
+    ]
+]

@@ -1,0 +1,22 @@
+{
+  "packageDirectories": [
+    {
+      "path": "allpack",
+      "default": true,
+      "id": "0Ho7F000000Gmb7SAC",
+      "ancestorId" :"05i7F000000CaRgQAK",
+      "versionName": "Version 1.1",
+      "versionNumber": "1.1.0.NEXT"
+    },
+    {
+      "path": "allpack_pages",
+      "id": "0Ho7F000000Gmb7SAC",
+      "ancestorId" :"05i7F000000CaRgQAK",
+      "versionName": "Version 1.0",
+      "versionNumber": "1.1.0.NEXT"
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}

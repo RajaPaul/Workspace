@@ -1,0 +1,332 @@
+[
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343321655,
+            "changeTime": 1524343321655,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343321655,
+            "changeTime": 1524343321655,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524344347029,
+            "changeTime": 1524344347029,
+            "contentHash": "dacb42c464af85da2ee466ec3e0c25950782e44c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343995949,
+            "changeTime": 1524343995949,
+            "contentHash": "c27b4633dcaae052cf4b489994bdaa9cf11c674c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343995986,
+            "changeTime": 1524343995986,
+            "contentHash": "148947f2eaabec7c9ba5a68b853a1d436f8ff772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1524343995985,
+            "changeTime": 1524343995985,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1600,
+            "modifiedTime": 1524344698434,
+            "changeTime": 1524344698434,
+            "contentHash": "26b3756cd38f87b0f7233e0c31dd72c432c333ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1524343995952,
+            "changeTime": 1524343995952,
+            "contentHash": "189e11b5b2905b19fd55cc2af18c20dc64cce247",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1524343995954,
+            "changeTime": 1524343995954,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1524343995986,
+            "changeTime": 1524343995986,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheArea.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1524343995984,
+            "changeTime": 1524343995984,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 215,
+            "modifiedTime": 1524344727791,
+            "changeTime": 1524344727791,
+            "contentHash": "b7d51775ceb8ace40d9d235d340a9188f804b96f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 886,
+            "modifiedTime": 1524344741416,
+            "changeTime": 1524344741416,
+            "contentHash": "d305c370fa48f8dbb9792f94fc781cc76ecebfb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\aura\\InTheArea\\InTheAreaRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1524343995983,
+            "changeTime": 1524343995983,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343522940,
+            "changeTime": 1524343522940,
+            "contentHash": "8fd4bafc29259eebc3ba5a8f1e385a6bfb38844e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes\\InTheArea.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes\\InTheArea.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 504,
+            "modifiedTime": 1524343911723,
+            "changeTime": 1524343911723,
+            "contentHash": "f75fc742128b19c69f540c00bfc74e515f8b1417",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes\\InTheArea.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\classes\\InTheArea.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 187,
+            "modifiedTime": 1524343522942,
+            "changeTime": 1524343522942,
+            "contentHash": "b8e0ab05ec5d853d2c52c59e3a6640b128fc86f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524344347032,
+            "changeTime": 1524344347032,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\flexipages\\Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6103,
+            "modifiedTime": 1524344347033,
+            "changeTime": 1524344347033,
+            "contentHash": "75014e10e66939f9ebf58f4201bda046d3cf1e6f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\remoteSiteSettings",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524343888546,
+            "changeTime": 1524343888546,
+            "contentHash": "17653b0ebb130abbb547a8100a2c06365b550621",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\remoteSiteSettings\\YelpProxy.remoteSite-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator\\force-app\\main\\default\\remoteSiteSettings\\YelpProxy.remoteSite-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 272,
+            "modifiedTime": 1524343888547,
+            "changeTime": 1524343888547,
+            "contentHash": "1495f0199b690bf04ece0d27964916dcbdc8842a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\resturant-locator\\resturant_locator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524370801869,
+            "changeTime": 1524370801869,
+            "contentHash": "b5aa116d1d66087e9663f036e35020a12fa579b6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

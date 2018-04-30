@@ -1,0 +1,12 @@
+1. Created sfdx project:
+$ sfdx force:project:create -n packaging_demo
+
+2. Changed directory
+$ cd packaging_demo/
+
+3. Created a scratch org
+$ sfdx force:org:create -a scratch1 -s -f config/project-scratch-def.json
+Successfully created scratch org: 00DO00000053HXnMAM, username: test-2lmc6s7zgpw5@example.com
+
+4. Opened the scratch org
+$ sfdx force:org:open

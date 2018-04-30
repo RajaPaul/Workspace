@@ -1,0 +1,9 @@
+sfdx force:org:list > orgs.txt
+sfdx  force:mdapi:retrieve -r ./mdapi_src_init  -k ./package.xml -u tp_org -w 2
+unzip  ./mdapi_src_init/unpackaged.zip  -d ./init_src
+sfdx force:mdapi:deploy -d ./init_src/unpackaged/ -c -u tp_org
+
+# Convert DX to MDAPI
+ sfdx force:source:convert -r force-app/ -d ./mdapi_converted_source
+# Deploy mdpi to org
+ sfdx force:mdapi:deploy -c -u tp_org -w 5 -d mdapi_converted_source/

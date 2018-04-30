@@ -1,0 +1,478 @@
+[
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack",
+        {
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523794027277,
+            "changeTime": 1523794027277,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main",
+        {
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523794027277,
+            "changeTime": 1523794027277,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125609,
+            "changeTime": 1523795125609,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523794027278,
+            "changeTime": 1523794027278,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack",
+        {
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523794452281,
+            "changeTime": 1523794452281,
+            "contentHash": "370621b4b89b1435d99c20b93efacf59efd5696b",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt__c\\mrt__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt__c\\mrt__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2064,
+            "modifiedTime": 1523795125447,
+            "changeTime": 1523795125447,
+            "contentHash": "1e4a536b1e9f2a7ab7a338bd7d1739ca0cbb01a4"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket__c\\Ship_Ticket__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket__c\\Ship_Ticket__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2088,
+            "modifiedTime": 1523795125457,
+            "changeTime": 1523795125457,
+            "contentHash": "9f7bf6fa3bded5ead63e0bee13f7ecf0141f1a9c"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order__c\\work_order__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order__c\\work_order__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2085,
+            "modifiedTime": 1523795125465,
+            "changeTime": 1523795125465,
+            "contentHash": "9b1bf7194d24a386b4cf1eb532754fb4106b768a"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket_Line_Item__c\\Ship_Ticket_Line_Item__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket_Line_Item__c\\Ship_Ticket_Line_Item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2118,
+            "modifiedTime": 1523795125473,
+            "changeTime": 1523795125473,
+            "contentHash": "4c52aa4be0872ab10919c910040b8911cb741941"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item__c\\mrt_line_item__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item__c\\mrt_line_item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2094,
+            "modifiedTime": 1523795125487,
+            "changeTime": 1523795125487,
+            "contentHash": "677c48e8bbb144436fe4469289f40239297a62d8"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\job__c\\job__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\job__c\\job__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2064,
+            "modifiedTime": 1523795125494,
+            "changeTime": 1523795125494,
+            "contentHash": "036b50bec344d19254ad93a785fb67ebe54ccb54"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item_location__c\\mrt_line_item_location__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item_location__c\\mrt_line_item_location__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2121,
+            "modifiedTime": 1523795125502,
+            "changeTime": 1523795125502,
+            "contentHash": "f4176b65cc53c7d5b83545306fd986854e8eda22"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order_line_item__c\\work_order_line_item__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order_line_item__c\\work_order_line_item__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2105,
+            "modifiedTime": 1523795125509,
+            "changeTime": 1523795125509,
+            "contentHash": "a75bbfc2c693e94d4e4bceb723e8941fac6dd319"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\Ship_Ticket_Line_Item__c-Ship Ticket Line Item Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\Ship_Ticket_Line_Item__c-Ship Ticket Line Item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125516,
+            "changeTime": 1523795125516,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt_line_item__c-mrt line item Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt_line_item__c-mrt line item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125521,
+            "changeTime": 1523795125521,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\Ship_Ticket__c-Ship Ticket Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\Ship_Ticket__c-Ship Ticket Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125551,
+            "changeTime": 1523795125551,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt__c-mrt Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt__c-mrt Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125555,
+            "changeTime": 1523795125555,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt_line_item_location__c-mrt line item location Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\mrt_line_item_location__c-mrt line item location Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125559,
+            "changeTime": 1523795125559,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\work_order_line_item__c-work order line item Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\work_order_line_item__c-work order line item Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125562,
+            "changeTime": 1523795125562,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\work_order__c-work order Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\work_order__c-work order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125600,
+            "changeTime": 1523795125600,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\job__c-job Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts\\job__c-job Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1523795125603,
+            "changeTime": 1523795125603,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5219,
+            "modifiedTime": 1523795125612,
+            "changeTime": 1523795125612,
+            "contentHash": "dc80b23de59c4ba3d54684faee4c5f7c95ce0d62"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20986,
+            "modifiedTime": 1523795125640,
+            "changeTime": 1523795125640,
+            "contentHash": "9e08755e19f3a5e9fa10bfb613b3c38fa443ff61"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5557,
+            "modifiedTime": 1523795125647,
+            "changeTime": 1523795125647,
+            "contentHash": "b72e3b424e3cd1865545840268075475df57209d"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5219,
+            "modifiedTime": 1523795125651,
+            "changeTime": 1523795125651,
+            "contentHash": "dc80b23de59c4ba3d54684faee4c5f7c95ce0d62"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125446,
+            "changeTime": 1523795125446,
+            "contentHash": "e0aafa7a6b060c228f5569347843ab80e717345f"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125508,
+            "changeTime": 1523795125508,
+            "contentHash": "959bbfedcf501ea7df5b44b84c43957e7885ff1a"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125456,
+            "changeTime": 1523795125456,
+            "contentHash": "59b744634565b5f5f4c157aadb7e6c4dec74d914"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125465,
+            "changeTime": 1523795125465,
+            "contentHash": "93c752452d8d859e67011f57bda49a13eedd23fc"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket_Line_Item__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\Ship_Ticket_Line_Item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125472,
+            "changeTime": 1523795125472,
+            "contentHash": "7c0e9e77f1df020d2d4af932dba9970ba3ba6afc"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125487,
+            "changeTime": 1523795125487,
+            "contentHash": "8c10c84e2745c1eb416e1e867f0a6d4f5b571f8d"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\job__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\job__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125494,
+            "changeTime": 1523795125494,
+            "contentHash": "baf1f1a12eebed8826e469b4b790f646c79cdbcf"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item_location__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\mrt_line_item_location__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125502,
+            "changeTime": 1523795125502,
+            "contentHash": "185e9e0d5c7d21a38208bb327d503c29fc0dfe66"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order_line_item__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\objects\\work_order_line_item__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125509,
+            "changeTime": 1523795125509,
+            "contentHash": "7a2705209fd264e38d057550a8de6683cad9108d"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125603,
+            "changeTime": 1523795125603,
+            "contentHash": "5fe2767c111b04b971d815107fbae21c3064ad89"
+        }
+    ],
+    [
+        "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\L0C@LH0ST\\Documents\\my_sfdx_vscode\\package_dependency_test\\AllPack\\allpack\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523795125651,
+            "changeTime": 1523795125651,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
