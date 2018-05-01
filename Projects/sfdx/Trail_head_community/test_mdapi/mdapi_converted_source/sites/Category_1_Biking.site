@@ -22,7 +22,7 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>test-ui2ytmnl208k@example.com</siteAdmin>
+    <siteAdmin>raja1337@raja.com</siteAdmin>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>trailhead1337-developer-edition</subdomain>
+    <subdomain>raja1337-developer-edition</subdomain>
 </CustomSite>
