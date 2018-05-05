@@ -1,0 +1,84 @@
+
+
+User
+----
+Name
+etcetc
+Type:customer/seller
+Password
+pic path
+
+--based on type -> redirect to landing page
+
+
+ITEM(read/edit/delete access of only seller)
+-----
+ID:
+name:
+seller:
+quantity:
+price:
+Search_TAG:
+Average Rating:(calculated)
+
+Review(junction of User-ITEM)
+-----------------------------
+UserID
+ITEMID
+Review TEXT
+REVIEW RATING
+
+
+
+USer_Activity_history
+---------------------
+UserID
+ITEMID
+Date time of visit
+
+
+
+
+
+
+
+
+
+
+Order
+-----
+ID
+ITEM ID
+Address of Order(shiping address)
+Quanitity ordered
+Amount(calculated)
+Type of payment
+userid
+Approval Status:[Approved/Rejected]
+current_Status :[Pending/Falilure/Inprocess] (dependent on Approval)
+
+
+Payment(USER-ORDER)
+--------
+USERID
+ORDERID
+Status
+Payment_Paytm:(null - ERROR investigatioin)/(PRESENT- use paytm status)
+
+
+
+
+Payment_Paytm
+-------------
+RequestID:
+from user account:
+to who's account :
+how much amount
+status: success/failure
+date
+
+
+
+notes:
+
+select count(*) from table where dateofvisit <= 3months  grouped by itemid  order by count(*) desc

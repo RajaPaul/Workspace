@@ -5,24 +5,19 @@
 
 <div ng-app="myApp" ng-controller="customersCtrl"> 
 
-<table>
-  <tr ng-repeat="x in names">
-    <td>{{ x.Name }}</td>
-    <td>{{ x.Country }}</td>
-  </tr>
-</table>
+<select ng-model="selectedoption" ng-options="y.model for (x , y) in cars"></select>
 
 </div>
 
 <script>
 var app = angular.module('myApp', []);
 app.controller('customersCtrl', function($scope, $http) {
-    $http.get("customers.json")
-    .then(function (response) {
-        
-        //debugger;
-        //response.data = JSON.parse(response.data);
-        $scope.names = response.data.records;});
+  $scope.cars = {
+car01 : {brand : "Ford", model : "Mustang", color : "red"},
+car02 : {brand : "Fiat", model : "500", color : "white"},
+car03 : {brand : "Volvo", model : "XC90", color : "black"}
+};
+
 });
 </script>
 
