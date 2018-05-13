@@ -1,15 +1,34 @@
 <html>
-        <head>
-                <title>Bootstrap Example</title>
-                <meta charset="utf-8">
-                <meta name="viewport" content="width=device-width, initial-scale=1">
-                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-                <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
-                <script src="JS/custom.js"></script>
-              </head>
-<body ng-app="customapp">
+
+<head>
+        <title>ImageProcessing Home Page</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+        <script src="JS/custom.js"></script>
+</head>
+
+<body ng-app="customApp">
+
+        <!--  <p><a href="#/!">Main</a></p>
+                        
+                        <a href="#!red">Red</a>
+                        <a href="#!green">Green</a>
+                        <a href="#!blue">Blue</a>
+                      -->
+        <div ng-controller="customCtrl">
+                <div ng-view>
+                                
+                </div>
+
+        </div>
+
+
 
 </body>
+
 </html>
