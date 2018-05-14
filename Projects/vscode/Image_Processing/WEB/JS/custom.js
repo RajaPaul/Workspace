@@ -16,7 +16,12 @@ app.config(function($routeProvider) {
     });
 });
 
-app.controller('customCtrl', function($scope) {
+app.controller('customCtrl', function($scope,$http) {
 $scope.name='Panda Banta'
+$http.get("dbconnect.py").then( function(response) {
+    
+    $scope.posts = response.data.records;
+    debugger;
+  });
     
 });
