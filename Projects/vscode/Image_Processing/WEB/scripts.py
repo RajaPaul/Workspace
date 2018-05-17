@@ -12,3 +12,6 @@ for (First_Name, Last_Name) in cursor:
 
 cursor.close()
 cnx.close()
+
+
+pip install Flask
